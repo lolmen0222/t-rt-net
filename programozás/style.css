@@ -3,6 +3,7 @@ body{background-image: url(letöltés\ \(1\).jpg);
     font-style: italic;
     color: white;
 font-size: larger;
-font-weight: bold;}
+font-weight: bold;
+background-size: 100%;}
 
 img{width: 300%;}
